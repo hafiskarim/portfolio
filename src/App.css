@@ -1,0 +1,143 @@
+.header-color {
+  background: #1D4350;  
+  background: -webkit-linear-gradient(to left, #A43931, #1D4350);
+  background: linear-gradient(to left, #A43931, #1D4350); 
+  font-family: 'Roboto';
+  
+}
+
+
+.avatar-img {
+  display: block;
+  height: 200px;
+  opacity: 0.7;
+  padding-top: 5em;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.landing-grid {
+background: #1D4350;  
+background: -webkit-linear-gradient(to left, #A43931, #1D4350);  
+background: linear-gradient(to left, #A43931, #1D4350); 
+}
+
+.banner-text {
+  background-color:black;
+  opacity: .6;
+  width: 75%;
+  margin: auto;
+  border-radius: 10px;
+
+}
+
+.footer-color {
+  background: #1D4350; 
+  background: -webkit-linear-gradient(to left, #A43931, #1D4350);  
+  background: linear-gradient(to left, #A43931, #1D4350); 
+  opacity: .9;
+}
+
+.banner-text h2 {
+  font-size: 45px;
+  font-weight: bold;
+  color: white;
+  font-family: 'Roboto';
+  text-align: center;
+}
+
+.banner-text p {
+  color: white;
+  font-size: 20px;
+  padding: 1em;
+  text-align: center;
+  font-family: 'Roboto';
+}
+
+.banner-text h5 {
+  padding-top: 15px;
+  color: white;
+  font-size: 20px;
+  font-weight: bold;
+  font-family: 'Roboto';
+  text-align: center;
+}
+
+.banner-text h4 {
+  color: white;
+  font-size: 20px;
+  font-weight: bold;
+  font-family: 'Roboto';
+  text-align: center;
+}
+
+.banner-text hr {
+  border-top: 3px solid #8c8b8b;
+  width: 50%;
+  margin: auto;
+}
+
+.socmed-links {
+  display: flex;
+  justify-content: space-around;
+  width: 50%;
+  margin: auto;
+  padding-bottom: 15px;
+}
+
+.socmed-links i {
+  color: white;
+  font-size: 6ex;
+
+}
+
+.col-kanan-resume {
+  opacity: .6;
+  background-color:black;
+  color: white;
+  padding: 2em;
+}
+
+.contact-body {
+  margin: auto;
+  background: #1D4350; 
+  background: -webkit-linear-gradient(to left, #A43931, #1D4350);  
+  background: linear-gradient(to left, #A43931, #1D4350);
+  width: 100%;
+  height: 100%;
+  position: relative;
+  justify-content: center;
+  padding-top: 2em;
+  padding-bottom: 2em;
+}
+
+.contact-grid {
+  text-align: center;
+  justify-content: center;
+  width: 80%;
+  height: 550px;
+  background: white;
+  color: black;
+  border: 2px solid #A43931;
+  margin-bottom: 20px;
+}
+
+.project-grid {
+  text-align: center;
+  justify-content: center;
+  width: 80%;
+  height: 550px;
+  background: black;
+  opacity: .6;
+  margin-bottom: 20px;
+  
+}
+
+.contact-list i {
+  font-size: 50px;
+  padding-right: 5rem;
+}
+
+.landing-grid i {
+  padding-right: 15px;
+}

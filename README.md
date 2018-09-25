@@ -18,7 +18,7 @@ Instead of using the official material.css and material.js files from the MDL pr
 
 ## Create React App
 
-The above instructions won’t work if you use Create React App with react-scripts higher than 0.4.0.
+The above instructions won’t work if you use [Create React App](https://github.com/facebook/create-react-app). with react-scripts higher than 0.4.0.
 If you use it, add only this one line to your HTML:
 
 ```html
@@ -37,7 +37,7 @@ npm install --save react-mdl
 ```
 
 ## Usage
-You can use React-MDL through a bundler like webpack or browserify by importing react-mdl in your application:
+You can use React-MDL through a bundler like [webpack](https://webpack.github.io/). or [browserify](http://browserify.org/)/ by importing react-mdl in your application:
 
 ```js
 import { Button, Card, CardText } from 'react-mdl';
@@ -53,8 +53,8 @@ const { Button, Card, CardText } = ReactMDL;
 
 ```
 
-For a listing of available components, as well as specific usage information, check out the Components page on the website.
-Some extra components can be found in the react-mdl-extra package.
+For a listing of available components, as well as specific usage information, check out the [Components](https://tleunen.github.io/react-mdl/components/). page on the website.
+Some extra components can be found in the [react-mdl-extra](https://github.com/HriBB/react-mdl-extra). package.
 
 ### `npm start`
 

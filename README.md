@@ -4,7 +4,7 @@ This project was bootstrapped with [React Material Design Lite](https://github.c
 
 ## Deprecation notice
 
-React-MDL is a set of React components build on top of Material Design Litev1.2.1
+React-MDL is a set of React components build on top of [Material Design Litev1.2.1](https://github.com/google/material-design-lite).
 
 ## Requirements
 

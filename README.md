@@ -37,7 +37,7 @@ npm install --save react-mdl
 ```
 
 ## Development
-### Project Setup
+### Installation
 ```
 git clone https://github.com/hafiskarim/portfolio.git
 npm install

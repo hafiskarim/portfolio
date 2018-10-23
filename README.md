@@ -1,5 +1,7 @@
 # Portfolio
 
+live demo: http://hafis-karim.surge.sh/
+
 This project was bootstrapped with [React Material Design Lite](https://github.com/tleunen/react-mdl).
 
 ## Deprecation notice

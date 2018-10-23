@@ -39,7 +39,7 @@ npm install --save react-mdl
 ## Development
 ### Project Setup
 ```
-git clone https://github.com/hafiskarim/cat-friends.git
+git clone https://github.com/hafiskarim/portfolio.git
 npm install
 ```
 
